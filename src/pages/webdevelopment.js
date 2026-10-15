@@ -37,7 +37,7 @@ const projects = [
     description:
       "A booking experience for smart sleeping pods, helping urban travellers and professionals explore a comfortable, private, and convenient place to stay.",
     website: "https://blrpods.com/",
-    featured: true,
+    featured: false,
   },
   {
     id: "izb",
